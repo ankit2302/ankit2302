@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ankit Kumar
-- 👀 I’m interested in VAPT, Application Security, SSDLC.
+- 👀 I’m interested in VAPT, Application Security, SSDLC, Secure code review.
 - 🌱 I’m currently learning system/network penetration testing, web application penetration testing.
